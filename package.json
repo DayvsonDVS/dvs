@@ -1,0 +1,14 @@
+{
+  "name": "dvs-components",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "nuxt3": "latest"
+  },
+  "author": "dayvson_dvs <dayvson_dvs@hotmail.com>",
+  "license": "ISC"
+}
